@@ -1,1 +1,1 @@
-# Face-Detection-and-Counting-of-faces-using-mediapipe-and-open-cv
+# Face-Detection-and-Counting-of-Faces-Using-Mediapipe-and-Open-CV

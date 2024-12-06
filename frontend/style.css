@@ -1,0 +1,10 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  #video {
+    margin: 20px auto;
+    border: 1px solid #ccc;
+  }
+  
